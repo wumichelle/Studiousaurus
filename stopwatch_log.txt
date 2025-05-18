@@ -1,0 +1,29 @@
+2025-05-18 04:01:51 - Session Time: 00:13:76
+2025-05-18 04:05:43 - Session Time: 00:00:00
+2025-05-18 04:15:57 - Session Time: 00:10:42
+2025-05-18 04:17:50 - Session Time: 01:39:75
+2025-05-18 04:59:14 - Timer Session Time: 04:00:00
+2025-05-18 04:59:53 - Session Time: 00:01:76
+2025-05-18 05:00:04 - Session Time: 00:00:68
+2025-05-18 05:00:25 - Session Time: 00:02:94
+2025-05-18 05:00:48 - Timer Session Time: 00:03:00
+2025-05-18 11:51:20 - Session Time: 00:01:93
+2025-05-18 11:51:41 - Timer Session Time: 00:02:00
+
+--- Pomodoro Session ---
+Date: 2025-05-18 12:02:14
+Subject: dfv
+Study Time: 4 min
+Short Break: 1 min
+Long Break: 6 min
+Loops: 1
+------------------------
+
+--- Pomodoro Session ---
+Date: 2025-05-18 12:03:00
+Subject: dfv
+Study Time: 4 min
+Short Break: 1 min
+Long Break: 6 min
+Loops: 1
+------------------------
